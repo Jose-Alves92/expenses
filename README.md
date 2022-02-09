@@ -1,16 +1,18 @@
-# expenses
+# Expenses
 
-A new Flutter project.
+Projeto expenses do curso Flutter da Cod3r, é app de despesas pessoais simples que mostra um grafico de despesas dos ultimos 7 dias, onde a barra do grafico representa o percentual gasto no dia em relação aos ultimos 7 dias.
 
-## Getting Started
+# Print
 
-This project is a starting point for a Flutter application.
+# Tecnologias utilizadas
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+    <td>Flutter</td>
+    <td>intl</td>
+  </tr>
+  <tr>
+    <td>2.8.1</td>
+    <td>0.17.0</td>
+  </tr>
+</table>
