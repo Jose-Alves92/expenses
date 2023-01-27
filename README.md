@@ -3,7 +3,7 @@
 ![Badge Tecnologia](http://img.shields.io/static/v1?label=Flutter&message=2.8.1&color=blue&style=fleat)
 ![Badge Dependencias](http://img.shields.io/static/v1?label=Intl&message=0.17.0&color=yellow&style=fleat)
 
-Projeto expenses do curso Flutter na Cod3r, é um, app de despesas pessoais simples que mostra um gráfico de despesas dos últimos 7 dias, onde cada barra do gráfico representa o percentual gasto no dia em relação aos últimos 7 dias.
+Projeto expenses do curso Flutter na Cod3r, é um app de despesas pessoais simples que mostra um gráfico de despesas dos últimos 7 dias, onde cada barra do gráfico representa o percentual gasto no dia em relação aos últimos 7 dias.
 
 # Print
 
