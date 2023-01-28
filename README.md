@@ -26,7 +26,7 @@ A aplicação consiste em um app de despesas pessoais simples, onde o usuário l
 
 # Como executar o projeto
 
-## Pré-requisitos: 
+### Pré-requisitos: 
 
 - SDK Flutter instalado
 - Android studio instalado
