@@ -1,5 +1,5 @@
 # Expenses
-[![Badge version](http://img.shields.io/static/v1?label=Version&message=1.0.0&color=blue&style=fleat)]
+![Badge version](http://img.shields.io/static/v1?label=Version&message=1.0.0&color=blue&style=fleat)
 
 # Sobre o projeto
 
