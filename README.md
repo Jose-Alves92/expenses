@@ -1,5 +1,5 @@
 # Expenses
-[![Badge Tecnologia](http://img.shields.io/static/v1?label=License&message=MIT&color=yellow&style=fleat)]()
+[![Badge version](http://img.shields.io/static/v1?label=Version&message=1.0.0&color=blue&style=fleat)]()
 
 # Sobre o projeto
 
@@ -16,7 +16,7 @@ A aplicação consiste em um app de despesas pessoais simples, onde o usuário l
 
 ## Layout mobile
 
-![2022-01-13 14 07](https://user-images.githubusercontent.com/65427813/153275194-e6bb12d7-b720-4f76-ac04-fc6d8b65dd03.png) ![2022-01-13 14 09](https://user-images.githubusercontent.com/65427813/153275208-b1600650-9219-4bb6-88aa-b61f4242be68.png) ![2022-01-13 14 11](https://user-images.githubusercontent.com/65427813/153275223-15d11d7a-b5b7-447f-bfcf-e9d0ab16524d.png)
+![expenses-image-01](https://github.com/Jose-Alves92/expenses/blob/main/assets/readme/expenses-image-01.png) ![expenses-image-02](https://github.com/Jose-Alves92/expenses/blob/main/assets/readme/expenses-image-02.png) ![expenses-image-03](https://github.com/Jose-Alves92/expenses/blob/main/assets/readme/expenses-image-03.png)
 
 # Tecnologias utilizadas
 
@@ -31,28 +31,28 @@ A aplicação consiste em um app de despesas pessoais simples, onde o usuário l
 - SDK Flutter instalado
 - Android studio instalado
 
-## clonar repositório
+### Clonar repositório
 ```bash
 git clone https://github.com/Jose-Alves92/expenses
 ```
 
-## entrar na pasta do projeto
+### Entrar na pasta do projeto
 ```bash
 cd expenses
 ```
 
-## instalar dependências
+### Instalar dependências
 ```bash
 flutter pub get
 ```
 
-## executar o projeto
+### Executar o projeto
 Para executar o projeto deve ter um device conectado ou device emulator
 ```bash
 flutter run
 ```
 
-## criar um release apk
+### Criar um release apk
 ```bash
 flutter build apk --release
 ```
