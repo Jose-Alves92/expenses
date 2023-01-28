@@ -1,5 +1,5 @@
 # Expenses
-[![Badge version](http://img.shields.io/static/v1?label=Version&message=1.0.0&color=blue&style=fleat)]()
+[![Badge version](http://img.shields.io/static/v1?label=Version&message=1.0.0&color=blue&style=fleat)]
 
 # Sobre o projeto
 
@@ -20,8 +20,8 @@ A aplicação consiste em um app de despesas pessoais simples, onde o usuário l
 
 # Tecnologias utilizadas
 
-- Dart: 2.18.0
-- Flutter: 3.10.0
+- Dart: 2.18.5
+- Flutter: 3.3.9
 - Intl: 0.17.0
 
 # Como executar o projeto
